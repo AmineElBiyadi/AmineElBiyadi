@@ -69,17 +69,17 @@ _start:
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="30" style="vertical-align: middle;"/> Technical Stack
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Keycap%20Digit%20One.png" width="22" style="vertical-align: middle;"/> Programming Languages
+###  Programming Languages
 <p>
   <img src="https://skillicons.dev/icons?i=php,cs,python,javascript,java,c,bash&theme=dark" />
 </p>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Keycap%20Digit%20Two.png" width="22" style="vertical-align: middle;"/> Frameworks & Backend
+###  Frameworks & Backend
 <p>
   <img src="https://skillicons.dev/icons?i=laravel,dotnet,react,vuejs,nodejs&theme=dark" />
 </p>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Keycap%20Digit%20Three.png" width="22" style="vertical-align: middle;"/> DevOps & Infrastructure
+###  DevOps & Infrastructure
 <p>
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,jenkins,linux&theme=dark" />
     <!-- gitlab, -->
@@ -87,7 +87,7 @@ _start:
 
 </p>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Keycap%20Digit%20Four.png" width="22" style="vertical-align: middle;"/> Networking & Security
+### Networking & Security
 <p>
   <img src="https://img.shields.io/badge/Cisco_CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/TCP%2FIP-0078D4?style=for-the-badge&logo=protocol&logoColor=white" />
@@ -95,7 +95,7 @@ _start:
   <img src="https://img.shields.io/badge/Subnetting-FF6B6B?style=for-the-badge&logo=routing&logoColor=white" />
 </p>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Keycap%20Digit%20Five.png" width="22" style="vertical-align: middle;"/> Databases & Data
+### Databases & Data
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
@@ -136,9 +136,9 @@ My approach to software development is rooted in **DevOps culture** and **automa
 
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmineElBiyadi&theme=github_dark" />
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" width="24" style="vertical-align: middle;"/> GitHub Achievements
+<!-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" width="24" style="vertical-align: middle;"/> GitHub Achievements -->
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=AmineElBiyadi&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" />
+<!-- <img width="100%" src="https://github-profile-trophy.vercel.app/?username=AmineElBiyadi&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" /> -->
 
 </div>
 
