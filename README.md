@@ -10,7 +10,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub_Profile-181717?style=for-the-badge&logo=github)](https://github.com/AmineElBiyadi)
 [![Email](https://img.shields.io/badge/Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amine.elbiyadi.8@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amine-el-biyadi-983639274/)
 
 </div>
 
@@ -121,13 +121,24 @@ My approach to software development is rooted in **DevOps culture** and **automa
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Bar%20Chart.png" width="30" style="vertical-align: middle;"/> GitHub Statistics
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Bar%20Chart.png" width="30" style="vertical-align: middle;"/> GitHub Analytics
 
-<div align="center">
+<div >
 
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="24" style="vertical-align: middle;"/> Technical Footprint
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmineElBiyadi&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=AmineElBiyadi&theme=github-compact&hide_border=true&area=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmineElBiyadi&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide=html,css" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AmineElBiyadi&theme=tokyonight&utcOffset=1" />
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Fire.png" width="24" style="vertical-align: middle;"/> Contribution Activity
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AmineElBiyadi&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=c9d1d9&area_color=1f6feb&custom_title=Contribution%20Graph" />
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmineElBiyadi&theme=tokyonight" />
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" width="24" style="vertical-align: middle;"/> GitHub Achievements
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=AmineElBiyadi&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" />
 
 </div>
 
