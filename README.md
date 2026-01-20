@@ -9,7 +9,7 @@
 <br>
 
 [![GitHub](https://img.shields.io/badge/GitHub_Profile-181717?style=for-the-badge&logo=github)](https://github.com/AmineElBiyadi)
-[![Email](https://img.shields.io/badge/Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amine.elbiyadi.8@gmail.com)
+[![Email](https://img.shields.io/badge/Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=amine.elbiyadi.8@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amine-el-biyadi-983639274/)
 
 </div>
@@ -220,7 +220,7 @@ If you're working on something exciting or have an opportunity where my skills c
 <br>
 
 [![GitHub](https://img.shields.io/badge/⭐_Star_this_Profile-181717?style=for-the-badge&logo=github)](https://github.com/AmineElBiyadi)
-[![Email](https://img.shields.io/badge/Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amine.elbiyadi.8@gmail.com)
+[![Email](https://img.shields.io/badge/📧_Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=amine.elbiyadi.8@gmail.com)
 
 <br>
 
