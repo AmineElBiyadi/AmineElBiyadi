@@ -36,17 +36,16 @@ SECTION .data
     role        db "Computer Science Engineer", 0
     location    db "Tetouan, Tanger-Tetouan-Al Hoceïma", 0
 
-    languages   db "PHP | C# | Python | JavaScript | Bash", 0
-    frameworks  db "Laravel | .NET | React | Vue.js", 0
+    languages   db "PHP | C# | Python | JavaScript | Java | C | Bash", 0
+    frameworks  db "Laravel | .NET | React | Vue.js ", 0
     databases   db "MySQL | SQL Server | Oracle | PostgreSQL", 0
 
     networking  db "Cisco Networking (CCNA-level) | TCP/IP | Subnetting | VLANs", 0
-    devops      db "Docker | Kubernetes | Git | GitHub Actions | GitLab CI", 0
-    automation  db "n8n | Ansible | Terraform (Learning)", 0
-    monitoring  db "Prometheus | Grafana | ELK Stack (Exploring)", 0
+    devops      db "Docker | Kubernetes | Git | GitHub Actions ", 0
+    automation  db "n8n", 0
 
     goal        db "Build production-grade systems with DevOps best practices", 0
-    mindset     db "Automate everything. Monitor everything. Improve constantly.", 0
+    mindset     db "Automate everything. Improve constantly.", 0
 
 SECTION .text
     global _start
@@ -144,7 +143,7 @@ My approach to software development is rooted in **DevOps culture** and **automa
 SECTION .data
     ; Location & Availability
     country         db "Morocco", 0
-    region          db "Salé, Rabat-Salé-Kénitra", 0
+    region          db "Tetouan, Tanger-Tetouan-Al Hoceïma", 0
     timezone        db "UTC+1 (West Africa Time)", 0
     status          db "Open to PFA Internships & Junior Positions", 0
 
