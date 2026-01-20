@@ -128,13 +128,13 @@ My approach to software development is rooted in **DevOps culture** and **automa
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="24" style="vertical-align: middle;"/> Technical Footprint
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmineElBiyadi&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide=html,css" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AmineElBiyadi&theme=tokyonight&utcOffset=1" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AmineElBiyadi&theme=github_dark&utcOffset=1" />
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Fire.png" width="24" style="vertical-align: middle;"/> Contribution Activity
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AmineElBiyadi&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=c9d1d9&area_color=1f6feb&custom_title=Contribution%20Graph" />
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmineElBiyadi&theme=tokyonight" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmineElBiyadi&theme=github_dark" />
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" width="24" style="vertical-align: middle;"/> GitHub Achievements
 
@@ -209,10 +209,20 @@ If you're working on something exciting or have an opportunity where my skills c
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0A1AFF&height=150&section=footer&text=Let's%20Build%20Together&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="100%"/>
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="25" style="vertical-align: middle;"/> *"Strong systems are built from solid fundamentals, automated processes, and continuous improvement."*
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands.png" width="25" style="vertical-align: middle;"/> Thanks for visiting my profile! Let's build something great together.
+<br>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands.png" width="30" style="vertical-align: middle;"/> **Thanks for visiting my profile!**
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/⭐_Star_this_Profile-181717?style=for-the-badge&logo=github)](https://github.com/AmineElBiyadi)
+[![Email](https://img.shields.io/badge/Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amine.elbiyadi.8@gmail.com)
+
+<br>
+
 
 </div>
